@@ -106,4 +106,3 @@ Montclair State University
 📄 Notes
 
 This repository contains academic internship documentation only.
-A full professional portfolio is available upon request.
